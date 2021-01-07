@@ -29,7 +29,7 @@
 
 - 郑州14号线、郑3号线、郑州4号线、洛阳1号线地铁监控系统,介面部份开发(Qt、C++)
 
-  <img src=".\Image\3_zz04_smmi.png" style="zoom:50%;" />
+  <img src="./Image/3_zz04_smmi.png" style="zoom:50%;" />
 
   <img src=".\Image\3_zz04_smmi_2.png" style="zoom:50%;" />
 
